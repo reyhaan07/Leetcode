@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/reyhaan07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/reyhaan07/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/reyhaan07/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
