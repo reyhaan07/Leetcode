@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/reyhaan07/Leetcode/tree/master/0015-3sum) |
 | [0142-linked-list-cycle-ii](https://github.com/reyhaan07/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/reyhaan07/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/reyhaan07/Leetcode/tree/master/0015-3sum) |
 | [0463-island-perimeter](https://github.com/reyhaan07/Leetcode/tree/master/0463-island-perimeter) |
 | [1480-running-sum-of-1d-array](https://github.com/reyhaan07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/reyhaan07/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/reyhaan07/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/reyhaan07/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
