@@ -72,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/reyhaan07/Leetcode/tree/master/0547-number-of-provinces) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/reyhaan07/Leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/reyhaan07/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
