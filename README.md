@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/reyhaan07/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/reyhaan07/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/reyhaan07/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/reyhaan07/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/reyhaan07/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/reyhaan07/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
