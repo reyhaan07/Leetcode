@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/reyhaan07/Leetcode/tree/master/0015-3sum) |
+| [0396-rotate-function](https://github.com/reyhaan07/Leetcode/tree/master/0396-rotate-function) |
 | [0463-island-perimeter](https://github.com/reyhaan07/Leetcode/tree/master/0463-island-perimeter) |
 | [1480-running-sum-of-1d-array](https://github.com/reyhaan07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/reyhaan07/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/reyhaan07/Leetcode/tree/master/0396-rotate-function) |
 | [1143-longest-common-subsequence](https://github.com/reyhaan07/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/reyhaan07/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Math
+|  |
+| ------- |
+| [0396-rotate-function](https://github.com/reyhaan07/Leetcode/tree/master/0396-rotate-function) |
 <!---LeetCode Topics End-->
