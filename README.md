@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/reyhaan07/Leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/reyhaan07/Leetcode/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/reyhaan07/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/reyhaan07/Leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/reyhaan07/Leetcode/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/reyhaan07/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -74,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/reyhaan07/Leetcode/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/reyhaan07/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/reyhaan07/Leetcode/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/reyhaan07/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Stack
 |  |
 | ------- |
