@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/reyhaan07/Leetcode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/reyhaan07/Leetcode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/reyhaan07/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/reyhaan07/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/reyhaan07/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/reyhaan07/Leetcode/tree/master/0015-3sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/reyhaan07/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/reyhaan07/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0396-rotate-function](https://github.com/reyhaan07/Leetcode/tree/master/0396-rotate-function) |
 | [0463-island-perimeter](https://github.com/reyhaan07/Leetcode/tree/master/0463-island-perimeter) |
 | [1480-running-sum-of-1d-array](https://github.com/reyhaan07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/reyhaan07/Leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/reyhaan07/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
