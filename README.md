@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/reyhaan07/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0463-island-perimeter](https://github.com/reyhaan07/Leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/reyhaan07/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/reyhaan07/Leetcode/tree/master/0841-keys-and-rooms) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/reyhaan07/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/reyhaan07/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/reyhaan07/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/reyhaan07/Leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Design
@@ -120,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/reyhaan07/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/reyhaan07/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/reyhaan07/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
