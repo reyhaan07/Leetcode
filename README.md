@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/reyhaan07/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/reyhaan07/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/reyhaan07/Leetcode/tree/master/0101-symmetric-tree) |
 | [0463-island-perimeter](https://github.com/reyhaan07/Leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/reyhaan07/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/reyhaan07/Leetcode/tree/master/0841-keys-and-rooms) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/reyhaan07/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/reyhaan07/Leetcode/tree/master/0101-symmetric-tree) |
 | [0463-island-perimeter](https://github.com/reyhaan07/Leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/reyhaan07/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/reyhaan07/Leetcode/tree/master/0841-keys-and-rooms) |
@@ -129,9 +131,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/reyhaan07/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/reyhaan07/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/reyhaan07/Leetcode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/reyhaan07/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/reyhaan07/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/reyhaan07/Leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
