@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/reyhaan07/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/reyhaan07/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/reyhaan07/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/reyhaan07/Leetcode/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/reyhaan07/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/reyhaan07/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/reyhaan07/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/reyhaan07/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/reyhaan07/Leetcode/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/reyhaan07/Leetcode/tree/master/0202-happy-number) |
 | [0396-rotate-function](https://github.com/reyhaan07/Leetcode/tree/master/0396-rotate-function) |
 ## Monotonic Stack
 |  |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/reyhaan07/Leetcode/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/reyhaan07/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
