@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/reyhaan07/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/reyhaan07/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/reyhaan07/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/reyhaan07/Leetcode/tree/master/0169-majority-element) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/reyhaan07/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/reyhaan07/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/reyhaan07/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/reyhaan07/Leetcode/tree/master/0169-majority-element) |
 | [0396-rotate-function](https://github.com/reyhaan07/Leetcode/tree/master/0396-rotate-function) |
 | [0463-island-perimeter](https://github.com/reyhaan07/Leetcode/tree/master/0463-island-perimeter) |
 | [1480-running-sum-of-1d-array](https://github.com/reyhaan07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/reyhaan07/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/reyhaan07/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/reyhaan07/Leetcode/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -171,8 +174,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/reyhaan07/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/reyhaan07/Leetcode/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/reyhaan07/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/reyhaan07/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/reyhaan07/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
