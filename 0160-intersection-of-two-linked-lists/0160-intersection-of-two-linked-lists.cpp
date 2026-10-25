@@ -6,18 +6,10 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-
 class Solution {
 public:
-    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        ListNode* a = headA;
-        ListNode* b = headB;
+  ListNode *getIntersectionNode(ListNode *a, ListNode *b) {
+ ListNode *x=a, *y=b; while (x!=y) { x=x?x->next:b; y=y?y->next:a; } return x;
+}
 
-        while (a != b) {
-            a = (a == nullptr) ? headB : a->next;
-            b = (b == nullptr) ? headA : b->next;
-        }
-
-        return a;
-    }
 };
