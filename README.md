@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/reyhaan07/Leetcode/tree/master/0180-consecutive-numbers) |
+| [0182-duplicate-emails](https://github.com/reyhaan07/Leetcode/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/reyhaan07/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/reyhaan07/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/reyhaan07/Leetcode/tree/master/0197-rising-temperature) |
